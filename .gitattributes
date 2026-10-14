@@ -1,0 +1,3 @@
+*.dsk binary
+*.png binary
+*.txt -text
