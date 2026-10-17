@@ -10,7 +10,11 @@ HOME.BASE is a new text adventure with pictures for a forty-year-old computer. Y
 
 Fifty rooms, every one with its own picture. Three endings. It runs on a 64K Apple IIe from one floppy drive, and plays its tunes in three voices if there is a Mockingboard in the machine.
 
-**[Download HOME.BASE 1.0](https://github.com/WhitneyDesignLabs/home-base/releases/tag/v1.0)** (one zip: six disk images, a README, the licence). It is free.
+## Download
+
+**[Download HOME.BASE from the Releases page](https://github.com/WhitneyDesignLabs/home-base/releases/latest).** It is free.
+
+The zip holds the six disk sides, A to F, for the Apple IIe and later machines, with a README and the licence; each disk image is also offered there on its own. The disks run on real hardware from floppies or a Floppy Emu or similar, or in an emulator such as AppleWin.
 
 ## By the numbers
 
@@ -77,7 +81,7 @@ If the game stops, says something that cannot be right, or leaves you somewhere 
 | `LICENSE.txt` | `74ede06eae2d483a00c7e3a1699f0bae` |
 | `README.txt` | `7abdc8502a52b0e541af665df072e7da` |
 
-`CHECKSUMS.txt` has the same list. The release zip holds all of these in one folder.
+`CHECKSUMS.txt` has the same list. The disk images are on the [Releases page](https://github.com/WhitneyDesignLabs/home-base/releases/latest), one by one and in the zip, which holds all of these files in one folder.
 
 ## Licence
 

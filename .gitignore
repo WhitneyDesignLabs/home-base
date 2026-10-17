@@ -1,0 +1,10 @@
+# Disk images and release archives are published as GitHub Release assets, not kept in the tree.
+*.dsk
+*.do
+*.po
+*.nib
+*.woz
+*.2mg
+*.2img
+*.hdv
+*.zip
